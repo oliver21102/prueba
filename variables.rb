@@ -1,0 +1,3 @@
+nombre="oliver"
+
+puts nombre
